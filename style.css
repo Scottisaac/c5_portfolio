@@ -1,0 +1,68 @@
+* {
+	#border:1px solid;
+}
+
+body {
+		background-image: url("http://coolblackppt.com/wp-content/uploads/2013/08/Leather-texture-black.jpg");
+		background-repeat: no-repeat;
+	}
+
+div {
+	#border: 1px solid;
+	height: 60px;
+	color:white;
+}
+
+img {
+	width: 80%;
+	height:auto;
+}
+a{
+	color:white;
+}
+
+.h1-hello {
+	margin-bottom:100px;
+}
+.hello-header {
+	font-size: 7em;
+}
+.name-header2 {
+	font-size:1.3em;
+}
+.nav {
+	border:1px solid;
+	width:200px;
+	height:40px;
+	background-color:grey;
+}
+
+
+.ul-enjoy {
+	list-style: none;
+	margin-left:-35px; 
+}
+
+.ul-enjoy li {
+	margin-top:10px;
+}
+
+.about-me {
+	text-align:center;
+	margin-left:-35px;
+}
+
+.btn-default {
+	width:100%;
+}
+
+.form-header {
+	margin-bottom:100px;
+}
+
+.footer {
+	position:absolute;
+	bottom:0;
+	left:0%;
+	height:40px;
+}

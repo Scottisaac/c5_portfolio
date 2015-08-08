@@ -1,28 +1,26 @@
-# c5_portfolio
-####Make sure your portfolio files are included in a repo forked from this repo
-### V2.0 scope:
+# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
-- 1 "about me" section / page
-  - include your name
-  - include your github account link
-  - include your linkedin profile link
-  - include a link to your résumé in PDF form
-  - include your email address
-  - a short blurb about you
-- 2 "contact me" section / page
-  - include a form to send you a message through your site (doesn't not have to go anywhere yet)
-- 3 "skills" section / page
-  - include your pertinent LF related skills
-  - skills from previous jobs that you believe are relevant to your CS future (such as leadership, teambuilding, technical / achievement related skills
-- 4 "projects" section / page
-  - include your LF / personal projects that illustrate your growth as a programmer
-  - apps you have made at LF must be testable and displayed or linked through your project section. JS/HTML only apps  can be hosted on github pages
-  
-General requirements:
-- Must have some sort of CSS / JS roll-over effect for your projects section
-- Must have JS code to prevent spam-scraping of your email address.
-  - Do this by not including your email address directly in your HTML, but instead adding it to the relevant section on page load
-  - email address must be composited from 2 variables, one holding your name, one holding the email server, for example:
-    - var e_name = 'daniel.paschal';
-    - var e_server = '@learningfuze.com';
-- Must be responsive and mobile-friendly.  Probably best to use bootstrap!
+[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
+## Getting Started
+
+To use this theme, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
+
+## Bugs and Issues
+
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.
